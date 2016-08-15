@@ -1,0 +1,7 @@
+[
+  "./app/app.js",
+
+  "./app/login/login.html",
+  "./app/login/loginModule.js",
+  "./app/login/LoginController.js"
+]

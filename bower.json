@@ -1,0 +1,20 @@
+{
+  "name": "angular_starter",
+  "description": "Base starter for angular 1.5, ES6 and karma",
+  "main": "index.js",
+  "authors": [
+    "Alcadur"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
